@@ -1,3 +1,7 @@
+# microphone-streaming-ruby-cloud-speech
+
+### Streaming microphone input using the coreaudio gem, integrated with Google Cloud Speech and Translate API in Ruby 
+
 Installation:
 
 `gem install google-cloud-speech`
